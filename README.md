@@ -127,11 +127,7 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/mikeesierrah/bencher.git
-cd becnher
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+git clone https://github.com/mikeesierrah/bencher.git && cd becnher && python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 ```
 
 **One-Line Installing on Fresh VPS**
